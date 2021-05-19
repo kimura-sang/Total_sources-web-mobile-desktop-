@@ -1,0 +1,91 @@
+.field-icon {
+    float: right;
+    margin-left: -25px;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+    margin-right: 10px;
+}
+
+.bottom-title{
+    float: right;
+    margin-left: -25px;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+    margin-right: 10px;
+}
+
+.container{
+    padding-top:50px;
+    margin: auto;
+}
+.edit-content{
+    margin-top: 20px;
+}
+.content-item:after{
+    box-sizing: border-box;
+    display: block;
+    line-height: 0;
+    content: ".";
+    height: 0;
+    clear: both;
+    overflow: hidden;
+    font-size: 0;
+}
+.item-title{
+    padding-top: 6px;
+}
+.edit-content input{
+    border: solid 1px #c2cad8;
+    border-radius: 5px !important;
+}
+
+input.large_checkbox {
+    display: block;
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+}
+.bottom-text-tip{
+    font-size: 13px;
+}
+.login-bottom-text{
+    color: #3a99af;
+}
+.top-button{
+    margin-top: 0px;
+    display: inline-block;
+    border-color: #39b375;
+    width: 70px;
+    padding: 5px !important;
+    border-radius: 5px !important;
+}
+
+.password-logo:after{
+    box-sizing: border-box;
+    display: block;
+    line-height: 0;
+    content: ".";
+    height: 0;
+    clear: both;
+    overflow: hidden;
+    font-size: 0;
+}
+
+.logo-right{
+    display: block;
+    float: right;
+}
+.logo-left{
+    display: block;
+    float: left;
+}
+.top-tip{
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.login .password-logo{
+    display: block;
+}
+

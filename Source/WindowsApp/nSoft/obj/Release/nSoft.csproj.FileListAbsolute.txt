@@ -1,0 +1,251 @@
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Release\nSoft.exe.config
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Release\nSoft.exe
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Release\nSoft.pdb
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Release\FontAwesome.WPF.dll
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Release\Hardcodet.Wpf.TaskbarNotification.dll
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Release\Newtonsoft.Json.dll
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Release\FontAwesome.WPF.xml
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Release\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Release\Hardcodet.Wpf.TaskbarNotification.xml
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Release\Newtonsoft.Json.xml
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\nSoft.csproj.ResolveComReference.cache
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\Views\MainWindow.g.cs
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\App.g.cs
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\nSoft_MarkupCompile.cache
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\nSoft_MarkupCompile.lref
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\App.baml
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\Views\MainWindow.baml
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\NotifyIconResources.baml
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\nSoft.g.resources
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\nSoft.Properties.Resources.resources
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\nSoft.csproj.GenerateResource.cache
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\nSoft.csproj.CoreCompileInputs.cache
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\nSoft.csproj.CopyComplete
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\nSoft.exe
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\nSoft.pdb
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Release\nSoft.csprojAssemblyReference.cache
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\nSoft.exe
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\FontAwesome.WPF.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Hardcodet.Wpf.TaskbarNotification.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Newtonsoft.Json.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\nSoft.csproj.ResolveComReference.cache
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\Views\MainWindow.g.cs
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\App.g.cs
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\nSoft_MarkupCompile.cache
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\nSoft_MarkupCompile.lref
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\nSoft.exe.config
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\nSoft.pdb
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\FontAwesome.WPF.xml
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Hardcodet.Wpf.TaskbarNotification.xml
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Newtonsoft.Json.xml
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\App.baml
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\Views\MainWindow.baml
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\NotifyIconResources.baml
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\nSoft.g.resources
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\nSoft.Properties.Resources.resources
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\nSoft.csproj.GenerateResource.cache
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\nSoft.csproj.CoreCompileInputs.cache
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\nSoft.csproj.CopyComplete
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\nSoft.exe
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\nSoft.pdb
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Release\nSoft.exe.config
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Release\nSoft.exe
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Release\nSoft.pdb
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Release\FontAwesome.WPF.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Release\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Release\Newtonsoft.Json.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Release\FontAwesome.WPF.xml
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Release\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Release\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Release\Newtonsoft.Json.xml
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\nSoft.csprojAssemblyReference.cache
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\nSoft.csproj.ResolveComReference.cache
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\Views\MainWindow.g.cs
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\App.g.cs
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\nSoft_MarkupCompile.cache
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\nSoft_MarkupCompile.lref
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\App.baml
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\Views\MainWindow.baml
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\NotifyIconResources.baml
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\nSoft.g.resources
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\nSoft.Properties.Resources.resources
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\nSoft.csproj.GenerateResource.cache
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\nSoft.csproj.CopyComplete
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\nSoft.exe
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Release\nSoft.pdb
+D:\07_nSoft\Win\116\nSoft\bin\Release\SqlServerTypes\x64\msvcr120.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\SqlServerTypes\x86\msvcr120.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\App_CustomerList.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Release\nSoft.exe.config
+D:\07_nSoft\Win\116\nSoft\bin\Release\nSoft.exe
+D:\07_nSoft\Win\116\nSoft\bin\Release\nSoft.pdb
+D:\07_nSoft\Win\116\nSoft\bin\Release\FontAwesome.WPF.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Hardcodet.Wpf.TaskbarNotification.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Microsoft.SqlServer.Types.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Newtonsoft.Json.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\EnvDTE.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\stdole.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\Microsoft.MSXML.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\FontAwesome.WPF.xml
+D:\07_nSoft\Win\116\nSoft\bin\Release\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\07_nSoft\Win\116\nSoft\bin\Release\Hardcodet.Wpf.TaskbarNotification.xml
+D:\07_nSoft\Win\116\nSoft\bin\Release\Newtonsoft.Json.xml
+D:\07_nSoft\Win\116\nSoft\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\obj\Release\nSoft.csprojAssemblyReference.cache
+D:\07_nSoft\Win\116\nSoft\obj\Release\Interop.IWshRuntimeLibrary.dll
+D:\07_nSoft\Win\116\nSoft\obj\Release\nSoft.csproj.ResolveComReference.cache
+D:\07_nSoft\Win\116\nSoft\obj\Release\Views\MainWindow.g.cs
+D:\07_nSoft\Win\116\nSoft\obj\Release\App.g.cs
+D:\07_nSoft\Win\116\nSoft\obj\Release\nSoft_Content.g.cs
+D:\07_nSoft\Win\116\nSoft\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\07_nSoft\Win\116\nSoft\obj\Release\nSoft_MarkupCompile.cache
+D:\07_nSoft\Win\116\nSoft\obj\Release\nSoft_MarkupCompile.lref
+D:\07_nSoft\Win\116\nSoft\obj\Release\App.baml
+D:\07_nSoft\Win\116\nSoft\obj\Release\Views\MainWindow.baml
+D:\07_nSoft\Win\116\nSoft\obj\Release\NotifyIconResources.baml
+D:\07_nSoft\Win\116\nSoft\obj\Release\nSoft.g.resources
+D:\07_nSoft\Win\116\nSoft\obj\Release\nSoft.Properties.Resources.resources
+D:\07_nSoft\Win\116\nSoft\obj\Release\nSoft.csproj.GenerateResource.cache
+D:\07_nSoft\Win\116\nSoft\obj\Release\nSoft.csproj.CoreCompileInputs.cache
+D:\07_nSoft\Win\116\nSoft\obj\Release\nSoft.csproj.CopyComplete
+D:\07_nSoft\Win\116\nSoft\obj\Release\nSoft.exe
+D:\07_nSoft\Win\116\nSoft\obj\Release\nSoft.pdb
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\SqlServerTypes\x64\msvcr120.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\SqlServerTypes\x86\msvcr120.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_CustomerList.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_DailyTimeRecordByStaff.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_FinancialStatement.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_InventoryReport.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_ItemSoldBreakDown.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_ItemSoldDaily.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_ItemSoldHourly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_ItemSoldMonthly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_ItemSoldWeekly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_ItemSoldYearly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_LeastSoldItem.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_MonthlySalesReport.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_PayInsPayouts.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_PettyCash.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_ProductItemList.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_SalesReport_Daily.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_SalesReport_Hourly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_SalesReport_Monthly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_SalesReport_Weekly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_SalesReport_Yearly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Reports\App_TopSoldItem.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Microsoft.SqlServer.Types.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\EnvDTE.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\stdole.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\Microsoft.MSXML.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\nSoft.csprojAssemblyReference.cache
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Release\nSoft_Content.g.cs

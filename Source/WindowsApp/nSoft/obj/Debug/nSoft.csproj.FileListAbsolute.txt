@@ -1,0 +1,357 @@
+D:\07_nSoft\Source\nSoft\nSoft\bin\Debug\nSoft.exe.config
+D:\07_nSoft\Source\nSoft\nSoft\bin\Debug\nSoft.exe
+D:\07_nSoft\Source\nSoft\nSoft\bin\Debug\nSoft.pdb
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\MainWindow.g.cs
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\App.g.cs
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\nSoft_MarkupCompile.cache
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\nSoft_MarkupCompile.lref
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\MainWindow.baml
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\nSoft.g.resources
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\nSoft.Properties.Resources.resources
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\nSoft.csproj.GenerateResource.cache
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\nSoft.csproj.CoreCompileInputs.cache
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\nSoft.exe
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\nSoft.pdb
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\07_nSoft\Source\nSoft\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\07_nSoft\Source\nSoft\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\07_nSoft\Source\nSoft\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\App.baml
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\NotifyIconResources.baml
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\nSoft.csproj.CopyComplete
+D:\07_nSoft\Source\nSoft\nSoft\obj\Debug\nSoft.csprojAssemblyReference.cache
+D:\07_nSoft\Source\nSoft\nSoft\bin\Debug\Newtonsoft.Json.dll
+D:\07_nSoft\Source\nSoft\nSoft\bin\Debug\Newtonsoft.Json.xml
+D:\07_nSoft\Source\nSoft\nSoft\bin\Debug\FontAwesome.WPF.dll
+D:\07_nSoft\Source\nSoft\nSoft\bin\Debug\FontAwesome.WPF.xml
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\App.g.cs
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\nSoft_MarkupCompile.cache
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\nSoft_MarkupCompile.lref
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\nSoft.exe
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\nSoft.pdb
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Debug\nSoft.exe.config
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Debug\nSoft.exe
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Debug\nSoft.pdb
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Debug\FontAwesome.WPF.dll
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Debug\Newtonsoft.Json.dll
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Debug\FontAwesome.WPF.xml
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+D:\07_nSoft\Source\WidnowsApp\nSoft\bin\Debug\Newtonsoft.Json.xml
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\App.baml
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\NotifyIconResources.baml
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\nSoft.g.resources
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\nSoft.Properties.Resources.resources
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\nSoft.csproj.GenerateResource.cache
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\nSoft.csproj.CoreCompileInputs.cache
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\nSoft.csproj.CopyComplete
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\nSoft.csprojAssemblyReference.cache
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\Views\MainWindow.g.cs
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\Views\MainWindow.baml
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\07_nSoft\Source\WidnowsApp\nSoft\obj\Debug\nSoft.csproj.ResolveComReference.cache
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\nSoft.exe.config
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\nSoft.exe
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\nSoft.pdb
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\FontAwesome.WPF.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Newtonsoft.Json.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\FontAwesome.WPF.xml
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Newtonsoft.Json.xml
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\nSoft.csproj.ResolveComReference.cache
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\Views\MainWindow.g.cs
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\App.g.cs
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\nSoft_MarkupCompile.cache
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\nSoft_MarkupCompile.lref
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\App.baml
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\Views\MainWindow.baml
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\NotifyIconResources.baml
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\nSoft.g.resources
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\nSoft.Properties.Resources.resources
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\nSoft.csproj.GenerateResource.cache
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\nSoft.csproj.CoreCompileInputs.cache
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\nSoft.csproj.CopyComplete
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\nSoft.exe
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\nSoft.pdb
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\nSoft.csprojAssemblyReference.cache
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\nSoft.csprojAssemblyReference.cache
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\nSoft.csproj.ResolveComReference.cache
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\Views\MainWindow.g.cs
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\App.g.cs
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\nSoft_MarkupCompile.cache
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\nSoft_MarkupCompile.lref
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\nSoft.exe.config
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\nSoft.exe
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\nSoft.pdb
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\FontAwesome.WPF.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Newtonsoft.Json.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\FontAwesome.WPF.xml
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Newtonsoft.Json.xml
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\App.baml
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\Views\MainWindow.baml
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\NotifyIconResources.baml
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\nSoft.g.resources
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\nSoft.Properties.Resources.resources
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\nSoft.csproj.GenerateResource.cache
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\nSoft.csproj.CopyComplete
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\nSoft.exe
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\nSoft.pdb
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\App_CustomerList.rdl
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\EnvDTE.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\stdole.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\Microsoft.MSXML.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\derek\Documents\app design\source code\final\116\nSoft\obj\Debug\nSoft_Content.g.cs
+D:\07_nSoft\Win\116\nSoft\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\nSoft.exe.config
+D:\07_nSoft\Win\116\nSoft\bin\Debug\nSoft.exe
+D:\07_nSoft\Win\116\nSoft\bin\Debug\nSoft.pdb
+D:\07_nSoft\Win\116\nSoft\bin\Debug\FontAwesome.WPF.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Newtonsoft.Json.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\EnvDTE.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\stdole.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Microsoft.MSXML.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\FontAwesome.WPF.xml
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Newtonsoft.Json.xml
+D:\07_nSoft\Win\116\nSoft\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Win\116\nSoft\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\07_nSoft\Win\116\nSoft\obj\Debug\nSoft.csproj.ResolveComReference.cache
+D:\07_nSoft\Win\116\nSoft\obj\Debug\Views\MainWindow.g.cs
+D:\07_nSoft\Win\116\nSoft\obj\Debug\App.g.cs
+D:\07_nSoft\Win\116\nSoft\obj\Debug\nSoft_Content.g.cs
+D:\07_nSoft\Win\116\nSoft\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\07_nSoft\Win\116\nSoft\obj\Debug\nSoft_MarkupCompile.cache
+D:\07_nSoft\Win\116\nSoft\obj\Debug\nSoft_MarkupCompile.lref
+D:\07_nSoft\Win\116\nSoft\obj\Debug\App.baml
+D:\07_nSoft\Win\116\nSoft\obj\Debug\Views\MainWindow.baml
+D:\07_nSoft\Win\116\nSoft\obj\Debug\NotifyIconResources.baml
+D:\07_nSoft\Win\116\nSoft\obj\Debug\nSoft.g.resources
+D:\07_nSoft\Win\116\nSoft\obj\Debug\nSoft.Properties.Resources.resources
+D:\07_nSoft\Win\116\nSoft\obj\Debug\nSoft.csproj.GenerateResource.cache
+D:\07_nSoft\Win\116\nSoft\obj\Debug\nSoft.csproj.CoreCompileInputs.cache
+D:\07_nSoft\Win\116\nSoft\obj\Debug\nSoft.csproj.CopyComplete
+D:\07_nSoft\Win\116\nSoft\obj\Debug\nSoft.exe
+D:\07_nSoft\Win\116\nSoft\obj\Debug\nSoft.pdb
+D:\07_nSoft\Win\116\nSoft\obj\Debug\nSoft.csprojAssemblyReference.cache
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_CustomerList.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_FinancialStatement.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_InventoryReport.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_ItemSoldBreakDown.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_LeastSoldItem.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_MonthlySalesReport.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_PayInsPayouts.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_PettyCash.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_ProductItemList.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_SalesReport_Daily.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_SalesReport_Hourly.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_SalesReport_Monthly.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_SalesReport_Weekly.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_SalesReport_Yearly.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_TopSoldItem.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_ItemSoldDaily.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_ItemSoldHourly.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_ItemSoldMonthly.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_ItemSoldWeekly.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_ItemSoldYearly.rdl
+D:\07_nSoft\Win\116\nSoft\bin\Debug\Reports\App_DailyTimeRecordByStaff.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_CustomerList.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_DailyTimeRecordByStaff.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_FinancialStatement.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_InventoryReport.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_ItemSoldBreakDown.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_ItemSoldDaily.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_ItemSoldHourly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_ItemSoldMonthly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_ItemSoldWeekly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_ItemSoldYearly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_LeastSoldItem.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_MonthlySalesReport.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_PayInsPayouts.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_PettyCash.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_ProductItemList.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_SalesReport_Daily.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_SalesReport_Hourly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_SalesReport_Monthly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_SalesReport_Weekly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_SalesReport_Yearly.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Reports\App_TopSoldItem.rdl
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\EnvDTE.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\stdole.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\Microsoft.MSXML.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\07_nSoft\Source\WindowsApp\nSoft\obj\Debug\nSoft_Content.g.cs

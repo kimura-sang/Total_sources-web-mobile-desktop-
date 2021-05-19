@@ -1,0 +1,24 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'nSoft' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for nSoft
+  pod 'QMUIKit'
+  pod 'SideMenu', '~> 5.0'
+  pod 'SkyFloatingLabelTextField'
+  pod 'IQKeyboardManagerSwift', '6.0.4'
+  pod 'FacebookCore'
+  pod 'FacebookLogin'
+  pod 'Google/SignIn' 
+  pod 'PopupDialog'
+  pod 'Charts'
+  pod 'Alamofire'
+  pod 'Motion'
+  pod 'Material'
+  pod 'PullToRefresher'
+  pod 'SDWebImage'
+
+end

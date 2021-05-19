@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in StaffProfileViewController.getRequestData():StaffProfileViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tempTimeInArr[1]">
+            </PersistentString>
+            <PersistentString
+               value = "tempTimeIn == &quot;&quot; &amp;&amp; tempTimeInArr.count == 2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DashboardViewController.viewDidAppear(_:):DashboardViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedMenuIndex">
+            </PersistentString>
+            <PersistentString
+               value = "menuItems[selectedMenuIndex][3]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ItemSoldViewController.initSingleBarChart():ItemSoldViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "singleCharCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DashboardViewController.showMachineList():DashboardViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "startTime">
+            </PersistentString>
+            <PersistentString
+               value = "startTimeArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.getProfileFromFB(token:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "accessToken">
+            </PersistentString>
+            <PersistentString
+               value = "token">
+            </PersistentString>
+            <PersistentString
+               value = "accessToken.tokenString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in TransactionViewController.getRequestData():TransactionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "strCloseDate">
+            </PersistentString>
+            <PersistentString
+               value = "dictonary">
+            </PersistentString>
+            <PersistentString
+               value = "openDateTime.count">
+            </PersistentString>
+            <PersistentString
+               value = "openDateTime[0]">
+            </PersistentString>
+            <PersistentString
+               value = "strShiftDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoginViewController.tryLoginWithFb(_:):LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DashboardViewController.showDashboardOne():DashboardViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "strOpenedDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ConsolidatedViewController.showBarCharts():ConsolidatedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "totalChartObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ReportViewController.getSoldReportData():ReportViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Int(amount)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AddNewShopViewController.tryAddNewShop(_:):AddNewShopViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "resultDicData[&quot;data&quot;][&quot;shop_name&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TransactionViewController.connectionSuccess():TransactionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedNoticeNo">
+            </PersistentString>
+            <PersistentString
+               value = "noticeArrayList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DashboardViewController.sendRequestToServer(searchKey:):DashboardViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userEmail">
+            </PersistentString>
+            <PersistentString
+               value = "userUniqueID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DashboardViewController.getRequestData():DashboardViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dashUsers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DashboardViewController.sendRequestToServer(sqlNo:):DashboardViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userUniqueID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ReportViewController.selectDate(_:):ReportViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedReportDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ReplenishmentViewController.getTempReplenishItem():ReplenishmentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "itemList">
+            </PersistentString>
+            <PersistentString
+               value = "responseData.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ItemSoldViewController.setSingleChart(dataEntryX:dataEntryY:):ItemSoldViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "barChartXValues">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.initUI():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ddDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SideMenuViewController.tableView(_:didSelectRowAt:):SideMenuViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "menuItems[previousIndex][3]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in OfferViewController.getRequestData():OfferViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "splitArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReportViewController.showYearlyInformation():ReportViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "barChartXValues">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReplenishmentViewController.connectionSuccess():ReplenishmentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "replenishItems">
+            </PersistentString>
+            <PersistentString
+               value = "itemList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReportViewController.getCurrentDate():ReportViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedReportDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserInfoViewController.initUI():UserInfoViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userExpiredDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static HttpRequest.addNewShop(shopName:machineID:branch:userId:didFuncLoad:):HttpRequest.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ReplenishmentViewController.collectionView(_:layout:sizeForItemAt:):ReplenishmentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "collectionView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ConsolidatedViewController.setGroupBarChart(barChartArray:):ConsolidatedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "barChartArray[0]">
+            </PersistentString>
+            <PersistentString
+               value = "barChartArray[0].barChartObjects[0].labelName">
+            </PersistentString>
+            <PersistentString
+               value = "barChartArray[1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ConsolidatedViewController.getSoldReportData():ConsolidatedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "totalChartObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ItemSoldViewController.setBarChart(barChartArray:):ItemSoldViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "barChartValues[0]">
+            </PersistentString>
+            <PersistentString
+               value = "dataEntries">
+            </PersistentString>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoginViewController.trySocialLogin(email:photoUrl:sdkType:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userPhotoUrl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MoreViewController.getEmailSendStatus():MoreViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RegisterViewController.sign(_:didSignInFor:withError:):RegisterViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.userID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static HttpRequest.getConsolidateResult(UDIDs:didFuncLoad:):HttpRequest.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UDIDs.replacingOccurrences(of: &quot;\\&quot;, with: &quot;&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CustomerViewController.getRequestData(type:):CustomerViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.tryLogin(_:):LoginViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ReportViewController.setDataCount(_:range:):ReportViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ReplenishmentViewController.collectionView(_:numberOfItemsInSection:):ReplenishmentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "listCategories">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReplenishmentViewController.collectionView(_:cellForItemAt:):ReplenishmentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.frame">
+            </PersistentString>
+            <PersistentString
+               value = "listCategories">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ConsolidatedViewController.sendRequestToServer(sqlNo:categoryName:selectedDate:):ConsolidatedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "strUDIDs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AddNewShopViewController.reader(_:didScanResult:):AddNewShopViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data[2]">
+            </PersistentString>
+            <PersistentString
+               value = "data[2] as! String">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MoreViewController.sendRequestToServer(sqlNo:categoryName:selectedDate:):MoreViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "strUDID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ConsolidatedViewController.collectionView(_:didSelectItemAt:):ConsolidatedViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedReportDate">
+            </PersistentString>
+            <PersistentString
+               value = "selectedCategory">
+            </PersistentString>
+            <PersistentString
+               value = "totalChartObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyShopViewController.tableView(_:numberOfRowsInSection:):MyShopViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "shopList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ItemSoldViewController.getSoldReportData():ItemSoldViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MyShopViewController.getShops():MyShopViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ReportViewController.showReportList():ReportViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "reportArrayList">
+            </PersistentString>
+            <PersistentString
+               value = "totalHourlyObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "StaffProfileViewController.getStandardTimeFormat(strTime:):StaffProfileViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dateFormatter.date(from: &quot;12:11:12&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in TransactionViewController.sendRequestToServer(sqlNo:):TransactionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "requestUDID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoginViewController.login(email:password:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "MACHINE_ID">
+            </PersistentString>
+            <PersistentString
+               value = "defaultSettings.object(forKey: &quot;MACHINE_ID&quot;) as! String">
+            </PersistentString>
+            <PersistentString
+               value = "type(of: data[&quot;photo_url&quot;]) == type(of: NSNull.init())">
+            </PersistentString>
+            <PersistentString
+               value = "data[&quot;photo_url&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "data[&quot;photo_url&quot;]?.isEqual(NSNull())">
+            </PersistentString>
+            <PersistentString
+               value = "!(data[&quot;photo_url&quot;] is NSNull)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CustomerProfileViewController.getRequestData():CustomerProfileViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "requestUDID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoginViewController.tryLogin(_:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "defaultSettings.object(forKey: &quot;MACHINE_ID&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ReplenishmentViewController.getRequestData():ReplenishmentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentCheckedCategoryName">
+            </PersistentString>
+            <PersistentString
+               value = "tempArr">
+            </PersistentString>
+            <PersistentString
+               value = "listCategories">
+            </PersistentString>
+            <PersistentString
+               value = "tempOptions">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DashboardViewController.collectionView(_:didSelectItemAt:):DashboardViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "categories">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CategoryCollectionViewCell.set(model:):CategoryCollectionViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&#10;">
+            </PersistentString>
+            <PersistentString
+               value = "model.categoryName">
+            </PersistentString>
+            <PersistentString
+               value = "&#10;&#10;model.categoryName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DashboardViewController.getNoticeData():DashboardViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "requestNoticeUDID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NoticeDetailViewController.getNoticeData():NoticeDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "requestUDID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ReplenishmentViewController.deleteItem(itemId:):ReplenishmentViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "temp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.sign(_:didSignInFor:withError:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.profile">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in OfferViewController.getOfferWithCategory(clickStatus:categoryName:):OfferViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "categoryName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ItemSoldViewController.getGraphInformation():ItemSoldViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "totalChartObjects">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
